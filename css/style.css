@@ -27,9 +27,14 @@ ul {
 li {
 	list-style-type: none;
 	float: right;
-	width: 90px;
+	width: 100px;
 	display: flex;
 	justify-content: center;
+	border-right: 1px solid #000;
+}
+
+li:last-child {
+	border-left: 1px solid #000;
 }
 
 a {
