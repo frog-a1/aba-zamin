@@ -5,11 +5,15 @@ body {
 }
 
 section {
-	background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    padding: 20px;
 	width: 80%;
-	height: 100vh;
+    height: 100vh;
+    
     margin: 0 auto;
     color: #000;
+    
 }
 
 h1, h2 , h3, h4, h5, h6 {
