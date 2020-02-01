@@ -29,6 +29,7 @@ h1, h2, h3, h4, h5, h6 {
 	-moz-background-clip: text;
 	-moz-text-fill-color: transparent;
 	font-size: 30pt;
+	color: #000;
 }
 
 @media only screen and (min-width: 800px) {
