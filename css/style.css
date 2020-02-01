@@ -98,9 +98,13 @@ h1, h2, h3, h4, h5, h6 {
 	position: fixed;
 	top: 0;
 	left: 0;
-    z-index: 2;
-    font-family: 'Varela Round', sans-serif;
-    font-size: 4em;
+	z-index: 2;
+	font-family: 'Varela Round', sans-serif;
+	font-size: 4em;
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 @media only screen and (min-width: 800px) {
