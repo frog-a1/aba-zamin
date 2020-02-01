@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 	transform: rotate(4grad);
 }
 
-#black_win {
+#black_win.black {
 	width: 100%;
 	height: 100vh;
 	background: #000;
