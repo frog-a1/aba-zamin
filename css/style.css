@@ -16,7 +16,7 @@ section {
 
 img {
     display: block;
-    max-width: 200 px;
+    max-width: 400px;
     min-width: 150px;
     margin: 0 auto;
 }
