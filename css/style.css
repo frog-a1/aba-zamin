@@ -5,14 +5,15 @@ body {
 }
 
 nav {
-	height: 80px;
-	width: 100%;
-	display: flex;
+    display: flex;
 	justify-content: center;
 	align-items: center;
-	background-color: #fff;
-	position: fixed;
 	z-index: 1;
+	height: 80px;
+	width: 100%;
+	position: fixed;
+	top: 0;
+	background-color: #fff;
 	box-shadow: 0 0 10px #000;
 }
 
