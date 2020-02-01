@@ -1,11 +1,17 @@
 body {
-    background-color: rgb(20, 20, 106);
-    color : rgb(255, 255, 255);
-    direction: rtl;
+	background-color: rgb(20, 20, 106);
+	color: rgb(255, 255, 255);
+	direction: rtl;
+	margin: 0;
 }
 
 section {
-    background-color: rgb(255, 255, 255);
-    width: 80%;
-    height: 1vh;
+	background-color: rgb(255, 255, 255);
+	width: 80%;
+	height: 100vh;
+	margin: 0 auto;
+}
+
+h1, h2 , h3, h4, h5, h6 {
+	margin: 0 auto;
 }
