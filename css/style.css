@@ -68,7 +68,8 @@ h1, h2, h3, h4, h5, h6 {
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	-moz-background-clip: text;
-	-moz-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+    background-clip: text;
 	font-size: 30pt;
 	color: #000;
 	font-family: 'Varela Round', sans-serif;
